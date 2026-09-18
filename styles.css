@@ -1,0 +1,71 @@
+
+
+.personal_info {
+    text-align: center;
+}
+
+h3 {
+    background-color: grey;
+    padding-left: 25px;
+}
+
+body {
+   font-family: 'Poppins', sans-serif;
+   padding: 60px;
+}
+
+#role1 {
+    font-weight: 700;
+}
+
+.experience1{
+    display: flex;
+     padding-right: 70px;
+}
+.place1{
+    width: 50%;
+}
+.desc1{
+    width: 50%;
+}
+
+.experience2{
+    display: flex;
+    padding-right: 70px;
+}
+.place2{
+    width: 50%;
+}
+.desc2{
+    width: 50%;
+}
+
+p {
+    font-size: 14px;
+    padding-left: 25px;
+}
+li{
+    font-size: 14px;
+   
+}
+#degree{
+    font-weight: 700;
+}
+hr {
+    border: 2px solid grey;
+}
+.edu{
+    padding-left: 100px;
+}
+#project_name{
+    font-weight: 700;
+}
+.skillset{
+    display: flex;
+}
+.skill1{
+    width: 50%;
+}
+.skill2{
+    width: 50%;
+}
